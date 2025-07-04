@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 -  ⚡ I'm interested in Data Science, Machine Learning Engineer & AI Engineer
 
 #### 👨🏻‍💻 Languages and Tools: <br />
-  <code><img title="Python" height="60" src="https://github.com/user-attachments/assets/cc93f25c-0bec-44ba-b502-7ce40e790be3"></code>
-  <code><img title="Pytorch" height="60" src="https://github.com/user-attachments/assets/17d6b049-dd78-4349-86c8-fe89b182d604"></code>
-  <code><img title="Scikit-learn" height="60" src="https://github.com/user-attachments/assets/1f35fe68-3039-45e3-a35b-0e2063bbaf3f"></code>
-  <code><img title="Tensorflow" height="60" src="https://github.com/user-attachments/assets/b93d5f02-93f3-438c-8cf6-49724ab8716c"></code>
-  <code><img title="SQL" height="60" src="https://github.com/user-attachments/assets/b79a9acd-9fe2-42fb-b274-acde017d173e"></code>
-  <code><img title="Azure" height="60" src="https://github.com/user-attachments/assets/099714a0-ae3c-4ef3-839d-4371dc345b97"></code>
-  <code><img title="Spark" height="60" src="https://github.com/user-attachments/assets/c62e708e-b757-4525-bdce-26a0d4f31a35"></code>
+  <code><img title="Python" height="6" src="https://github.com/user-attachments/assets/cc93f25c-0bec-44ba-b502-7ce40e790be3"></code>
+  <code><img title="Pytorch" height="6" src="https://github.com/user-attachments/assets/17d6b049-dd78-4349-86c8-fe89b182d604"></code>
+  <code><img title="Scikit-learn" height="6" src="https://github.com/user-attachments/assets/1f35fe68-3039-45e3-a35b-0e2063bbaf3f"></code>
+  <code><img title="Tensorflow" height="6" src="https://github.com/user-attachments/assets/b93d5f02-93f3-438c-8cf6-49724ab8716c"></code>
+  <code><img title="SQL" height="6" src="https://github.com/user-attachments/assets/b79a9acd-9fe2-42fb-b274-acde017d173e"></code>
+  <code><img title="Azure" height="6" src="https://github.com/user-attachments/assets/099714a0-ae3c-4ef3-839d-4371dc345b97"></code>
+  <code><img title="Spark" height="6" src="https://github.com/user-attachments/assets/c62e708e-b757-4525-bdce-26a0d4f31a35"></code>
 
 
 
