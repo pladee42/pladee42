@@ -1,34 +1,41 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Waris Ratthapoom</h1>
 
-<!--
-**pladee42/pladee42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>AI Engineer | Machine Learning Engineer | Researcher</b><br>
+  <i>MSc Artificial Intelligence at The University of Sheffield, UK 🇬🇧</i>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🔭 I'm studying for my Master's in Artificial Intelligence at the University of Sheffield, UK 
-- 🌱 I’m currently learning about Retrieval Augmented Generation & AI Agents Development
--  ⚡ I'm interested in Data Science, Machine Learning Engineer & AI Engineer
+### 🚀 What I'm up to
+- 🔭 **Building:** Autonomous Multi-Agent Systems, Building AI workflows to boost personal productivity 10x.
+- 🌱 **Researching:** Agentic Workflows, and High-Frequency Trading Bots.
+- ⚡ **Focus:** Developing scalable AI solutions that solve complex business and creative problems.
 
-#### 👨🏻‍💻 Languages and Tools: <br />
-  <code><img title="Python" height="60" width="60" src="https://github.com/user-attachments/assets/cc93f25c-0bec-44ba-b502-7ce40e790be3"></code>
-  <code><img title="Pytorch" height="60" width="60" src="https://github.com/user-attachments/assets/17d6b049-dd78-4349-86c8-fe89b182d604"></code>
-  <code><img title="Scikit-learn" height="60" width="60" src="https://github.com/user-attachments/assets/1f35fe68-3039-45e3-a35b-0e2063bbaf3f"></code>
-  <code><img title="Tensorflow" height="60" width="60" src="https://github.com/user-attachments/assets/b93d5f02-93f3-438c-8cf6-49724ab8716c"></code>
-  <code><img title="SQL" height="60" width="60" src="https://github.com/user-attachments/assets/b79a9acd-9fe2-42fb-b274-acde017d173e"></code>
-  <code><img title="Azure" height="60" width="60" src="https://github.com/user-attachments/assets/099714a0-ae3c-4ef3-839d-4371dc345b97"></code>
-  <code><img title="Spark" height="60" width="60" src="https://github.com/user-attachments/assets/c62e708e-b757-4525-bdce-26a0d4f31a35"></code>
+### 🛠️ Featured Projects
+- 🧠 **[Multi-Agent Email Generation & DPO](https://github.com/pladee42/email-dpo-agents)**: A research framework using 3-agent orchestration + DPO training pipeline with **DeepSeek-R1** & **vLLM**.
+- 🎬 **[ChronoReel](https://github.com/pladee42/alt-history-reel)**: Fully autonomous AI content engine acting as a film studio to generate viral vertical videos.
+- 📈 **[Polymarket Arbitrage Bot](https://github.com/pladee42/polymarket-bot)**: Real-time crypto arbitrage engine running on **GCP Cloud Run** & **Docker**.
 
 
+## 🛠️ The Toolkit
 
-- 📫 Reach me at : tan_waris1@hotmail.com
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,gcp,azure,postgres,git" />
+  <br>
+  <br>
+  <b>Focus:</b> LLM Inference (vLLM), Agentic Workflows, MLOps
+</div>
 
-- 🤝 Connect with me on <a href="https://www.linkedin.com/in/waris-ratthapoom/">LinkedIn.</a>
+<br>
+
+<div align="center">
+  <a href="mailto:tan_waris1@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-Shoot_me_a_message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/waris-ratthapoom/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  
+</div>
+
